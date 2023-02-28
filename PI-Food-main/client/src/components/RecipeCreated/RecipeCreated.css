@@ -1,0 +1,225 @@
+.containerForm {
+    background-image: url("https://images.pexels.com/photos/2343467/pexels-photo-2343467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 912px;
+    width: 1280px;
+
+}
+
+.buttonback {
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    border: none;
+    margin-right: 1000px;
+    margin-top: 20px;
+
+    padding: 12px 15px;
+    color: rgb(5, 4, 4);
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 1;
+    border-radius: 8px;
+
+    background-image: linear-gradient(30deg, #dd6844 10%, #c74a2b 40%);
+    background-size: 100% 100%;
+    box-shadow: 0 1px 8px 1px #da6c58;
+}
+
+.buttonback:hover {
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    border: none;
+    margin-right: 1000px;
+    margin-top: 20px;
+
+    padding: 12px 15px;
+    color: rgb(245, 245, 245);
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 1;
+    border-radius: 8px;
+
+    background-image: linear-gradient(30deg, #d84316 10%, #cf411d 60%);
+    background-size: 100% 100%;
+    box-shadow: 0 1px 8px 1px #0f0f0f;
+}
+
+.header {
+    margin-top: 40px;
+    margin-left: 290px;
+    width: 700px;
+    font-size: 50px;
+    color: #0c0a09;
+    border-radius: 150px;
+    box-shadow: 0 1px 8px 4px #964b28;
+}
+
+.header:hover {
+    margin-top: 40px;
+    margin-left: 290px;
+    width: 700px;
+    font-size: 50px;
+    color: #ff3c00;
+    border-radius: 150px;
+    box-shadow: 0 1px 8px 4px #ff3e03;
+}
+
+.formContainer {
+    position: relative;
+    margin-top: 50px;
+    margin-left: 340px;
+    width: 38rem;
+    overflow: hidden;
+
+    background-image: linear-gradient(30deg, #161413 10%, #d14826 60%);
+    border-radius: 240px;
+    box-shadow: 3px 2px 4px rgba(243, 234, 234, 0.3);
+
+    padding-bottom: 4%;
+}
+
+.formdiv {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    position: relative;
+}
+
+.formdiv label {
+    display: flex;
+    margin-left: 5%;
+    margin-bottom: 5px;
+}
+
+.formdiv input {
+    background-color: #242020;
+    border-radius: 14px;
+    color: white;
+    display: block;
+    width: 50%;
+    padding: 10px;
+    font-size: 14px;
+    font-family: inherit;
+    margin-left: 155px;
+}
+
+.formdiv input:hover {
+    border: 2px solid #dfd8d8;
+    background-color: #242020;
+    border-radius: 14px;
+    color: white;
+    display: block;
+    width: 50%;
+    padding: 10px;
+    font-size: 14px;
+    font-family: inherit;
+    margin-left: 155px;
+}
+
+
+.tituloInput {
+    margin-top: 20px;
+    font-size: 30px;
+    color: #161515;
+    -webkit-text-stroke: 0.9px rgb(248, 248, 248);
+}
+
+.filterDietsForm:hover {
+    cursor: pointer;
+    background-color: #bb3219;
+    outline: none;
+    text-decoration: none;
+    border: none;
+    border-radius: 15px;
+    padding: 5px 20px;
+    color: rgb(248, 245, 242);
+    font-size: 13px;
+    letter-spacing: 2px;
+    background-size: 100% 100%;
+    box-shadow: 0 1px 7px 0.5px #fcfcfc;
+}
+
+.filterDietsForm {
+    cursor: pointer;
+    background-color: #e6e8ec;
+    outline: none;
+    text-decoration: none;
+    border: none;
+    border-radius: 15px;
+
+    padding: 5px 20px;
+    color: rgb(211, 88, 17);
+    font-size: 13px;
+    letter-spacing: 2px;
+    background-size: 100% 100%;
+    box-shadow: 0 1px 7px 0.5px #000000;
+}
+
+
+.buttoncreatedForm {
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    border: none;
+    margin-top: 20px;
+    padding: 12px 15px;
+    color: rgb(5, 4, 4);
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 1;
+    border-radius: 8px;
+
+    background-image: linear-gradient(30deg, #fd4c00 0.5%, #ca421f 50%);
+    background-size: 100% 100%;
+    box-shadow: 0 1px 8px 1px #c24627;
+}
+
+.buttoncreatedForm:hover {
+    cursor: pointer;
+    outline: none;
+    text-decoration: none;
+    border: none;
+    margin-top: 20px;
+    padding: 12px 15px;
+    color: rgb(252, 252, 252);
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 1;
+    border-radius: 8px;
+    background-image: linear-gradient(30deg, #fd4c00 0.5%, #ca421f 50%);
+    background-size: 100% 100%;
+    box-shadow: 0 1px 8px 1px #d8c7c7;
+}
+
+.divType {
+    border: none;
+    position: relative;
+    width: 140px;
+    height: 60px;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 0 1px 8px 1px #b6c5b2;
+    background-color: #e4e6e511;
+    color: rgb(255, 255, 255);
+}
+
+.botonX {
+    position: relative;
+    border: none;
+    width: 20px;
+    height: 20px;
+    background-color: #da5841;
+}

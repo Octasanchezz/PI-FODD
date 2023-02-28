@@ -1,0 +1,76 @@
+.containerVideoLanding {
+    width: 1280px;
+    margin-top: 60px;
+
+}
+
+video {
+    border-radius: 230px;
+    margin-top: 100px;
+    box-shadow: 1px 1px 10px rgb(201, 191, 191);
+}
+
+.containerWelcomeyH2 {
+    position: center;
+    margin-top: -450px;
+    margin-left: 200px;
+    width: 900px;
+    height: 150px;
+    background: rgba(255, 255, 255, 0.199);
+    box-shadow: 3px 4px 5px rgb(201, 191, 191);
+}
+
+.h1Wel {
+    font-size: 60px;
+    color: rgb(233, 93, 12);
+    -webkit-text-stroke: 1.7px rgb(15, 15, 15);
+}
+
+.ButtonHOME {
+    position: absolute;
+    cursor: pointer;
+    border: none;
+    margin-left: -50px;
+    margin-top: 70px;
+
+    padding: 16px 32px;
+    color: rgb(0, 0, 0);
+    font-family: serif;
+    font-size: 24px;
+    font-weight: 550;
+    letter-spacing: .5px;
+    border-radius: 20px;
+    background-image: linear-gradient(45deg, #f05c22e0 10%, #c95e21 90%);
+    box-shadow: 0 2px 8px -1px #292a2e;
+}
+
+.ButtonHOME:hover {
+    position: absolute;
+    cursor: pointer;
+    border: none;
+    margin-left: -50px;
+    margin-top: 70px;
+
+    padding: 16px 32px;
+    color: rgb(253, 253, 253);
+    font-family: serif;
+    font-size: 24px;
+    font-weight: 550;
+    letter-spacing: .5px;
+    border-radius: 20px;
+    background-image: linear-gradient(45deg, #f05c22e0 10%, #c95e21 90%);
+    box-shadow: 0 2px 8px 6px #fafafa;
+}
+
+.containerImg {
+    background-image: url("https://images.pexels.com/photos/4464668/pexels-photo-4464668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 913px;
+    width: 1280px;
+    margin-top: -60px;
+    background-position: center center;
+    background-attachment: fixed;
+}

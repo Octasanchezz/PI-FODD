@@ -1,0 +1,169 @@
+.containerdetail {
+    background-image: url("https://images.pexels.com/photos/349610/pexels-photo-349610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 1212px;
+    width: 1280px;
+
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.containerNyI {
+    position: relative;
+    width: 314px;
+    height: 290px;
+    text-decoration: none;
+    margin-left: 40px;
+    display: flex;
+}
+
+.imagencontainer {
+    margin-top: 20px;
+    width: 450px;
+    border-radius: 140px;
+    position: absolute;
+    margin-left: 620px;
+    box-shadow: 3px 4px 5px black;
+}
+
+.titleDetail {
+    margin-top: 140px;
+    margin-right: -220px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.containerProps {
+    position: center;
+    margin-top: 50px;
+    margin-left: 45px;
+    width: 1200px;
+    height: 550px;
+
+    background: rgba(170, 154, 154, 0.411);
+    box-shadow: 2px 1px 5px 3px black;
+    border-radius: 40px;
+}
+
+.containerAbout {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 130px;
+    font-size: 35px;
+    text-align: left;
+    color: white;
+    display: flex;
+
+}
+
+.containerTypes {
+    margin-left: -200px;
+    margin-top: -560px;
+    position: relative;
+}
+
+.titleProps {
+    border-radius: 20px;
+    margin-left: 470px;
+    color: white;
+    width: 260px;
+    -webkit-text-fill-color: rgb(241, 243, 236);
+    -webkit-text-stroke: 0.7px rgb(206, 59, 22);
+    background-image: linear-gradient(25deg, #3d1d0e 10%, #000000 90%);
+    box-shadow: 0 2px 8px #09113f;
+}
+
+.healthScore {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.summaryDetail {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.stepDetail {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.dietsDetail {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.botonback {
+    margin-top: -940px;
+    margin-left: -620px;
+    position: absolute;
+    cursor: pointer;
+    border: none;
+
+    padding: 16px 32px;
+    color: #fff;
+    font-family: 'Roboto', Arial;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: .5px;
+    line-height: 1;
+    border-radius: 8px;
+
+    background-image: linear-gradient(45deg, #83513d 10%, #aa5626 90%);
+    box-shadow: 0 2px 8px -1px #09113f;
+}
+
+.containerDetailHealth {
+    margin-right: 920px;
+}
+
+.titlePropHe {
+    border-radius: 20px;
+    margin-left: 100px;
+    color: white;
+    width: 170px;
+    -webkit-text-fill-color: rgb(241, 243, 236);
+    -webkit-text-stroke: 0.7px rgb(206, 59, 22);
+    background-image: linear-gradient(25deg, #3d1d0e 10%, #000000 90%);
+    box-shadow: 0 2px 8px #09113f;
+}
+
+.h {
+    margin-left: 15px;
+    font-size: 30px;
+    color: rgb(197, 81, 27);
+    -webkit-text-stroke: 0.7px rgb(0, 0, 0);
+}
+
+
+.dietsD {
+    margin-left: 544px;
+    display: flex;
+}
+
+.titlePropsSu{
+    border-radius: 20px;
+    margin-left: 520px;
+    color: white;
+    width: 160px;
+    -webkit-text-fill-color: rgb(241, 243, 236);
+    -webkit-text-stroke: 0.7px rgb(206, 59, 22);
+    background-image: linear-gradient(25deg, #3d1d0e 10%, #000000 90%);
+    box-shadow: 0 2px 8px #09113f;
+}
+
+.titlePropsDET{  
+       border-radius: 20px;
+    margin-left: 520px;
+    color: white;
+    width: 160px;
+    -webkit-text-fill-color: rgb(241, 243, 236);
+    -webkit-text-stroke: 0.7px rgb(206, 59, 22);
+    background-image: linear-gradient(25deg, #3d1d0e 10%, #000000 90%);
+    box-shadow: 0 2px 8px #09113f;
+}

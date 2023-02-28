@@ -1,0 +1,37 @@
+.search input {
+    background-color: rgb(248, 236, 236);
+    color: rgb(24, 26, 26);
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 15px;
+    height: 30px;
+    width: 300px;
+}
+
+.search input:hover {
+    background-color: rgb(248, 236, 236);
+    color: rgb(24, 26, 26);
+    border-radius: 10px;
+    font-size: 18px;
+    padding: 15px;
+    height: 30px;
+    width: 300px;
+    box-shadow: 0 1px 8px 1px #c93e14;
+}
+
+
+.searchInputs {
+    display: flex;
+}
+
+.searchIcon {
+    height: 60px;
+    width: 50px;
+    background-color: white;
+    display: grid;
+    place-items: center;
+}
+
+.imageBusca{
+    cursor: pointer;
+}
